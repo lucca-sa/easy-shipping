@@ -2,7 +2,7 @@
 </br>
  I developed this project as a part of my learning journey in programming. It showcases my proficiency in HTML and CSS, serving as a testament to my web development skills. The project features a responsive design, ensuring optimal user experience across both desktop and smartphone platforms.
 </br></br></br>
-<h3><a href="https://lucca-sa.github.io/easy-shipping/">Deployed Website</a></a></h3>
+<h3><a href="https://lucca-sa.github.io/easy-shipping/">🔗 Deployed Website 🔗</a></a></h3>
 </br>
 <h2>Languages and tools used:</h2>
 </br>
